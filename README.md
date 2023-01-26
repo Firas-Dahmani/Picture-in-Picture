@@ -1,4 +1,4 @@
-# [Picture in Picture] (https://firas-dahmani.github.io/Picture-in-Picture/)
+# [Picture in Picture](https://firas-dahmani.github.io/Picture-in-Picture/)
 Picture-in-Picture uses the new HTML5 and WebCapture API to capture your sreen and cast into Picture in Picture Mode.
 UseCase could be following a tutorial over Youtube or Udemy and coding it side by side. Monitoring a site for notifications or chat while coding.
 
